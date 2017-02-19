@@ -6,16 +6,19 @@
 - 2012-2016 电子科学与技术，本科，中国计量大学
 - 2年开发经验
 - 手机：13282157669
-- 微信：madao86500
 - 邮箱：johnhu456@163.com
 - GitHub：[https://github.com/madao1237](https://github.com/madao1237)  
 - 博客：[http://www.jianshu.com/users/fed300b37039/latest_articles](http://www.jianshu.com/users/fed300b37039/latest_articles)
 
 ### 技能清单
-- 熟练掌握Objective-C，Cocoa Touch框架，专注iOS开发 
+#####iOS
+- 熟练掌握Objective-C，Cocoa Touch框架，专注iOS开发
+- 丰富的UI构建、JSON解析、地图构建经验。
 - 熟悉iOS项目从需求到上线的完整流程，完整经历三个线上项目
+- 了解Runtime、RunLoop、Swift等  
+
+####其他
 - 熟练使用 Git及Git Flow进行代码、版本管理 
-- 了解Swift
 - 了解一些前端技术HTML、CSS、JavaScript等
 - 了解Python，有静态网页爬虫入库经验
 - 熟练使用常用的bash命令，有VPS搭建网络代理（VPN）经验。
@@ -41,7 +44,7 @@
 
 
 #### 独立项目：
-#### PBicycles·杭州(生活便民)
+#### PBicycles·杭州(生活便民，个人线上项目)
 #####（2016年10月 ~ 至今）
 ![1479887231.png](http://upload-images.jianshu.io/upload_images/1683504-9478f13d041aa9be.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
 
@@ -52,12 +55,12 @@
 * 项目职责：  
  - 独立完成整个项目的界面设计，编码，上线及维护。
 * 技术细节：
+ - 使用高德地图SDK，实现移动端下地图显示，定位，导航等功  
  - 网络抓包获取自行车信息接口  
- - 使用高德SDK，实现移动端下地图显示，定位，导航等功  
  - 使用Today Extension开发通知栏扩展程序    
 * 个人成长：
 独立项目，从设计到提交上架，每一步都是对自身能力的考验和提高。  
- - 学习App证书、签名配置，掌握iTunes Connect，Application Loader等App打包上传工具。  
+ - App证书、签名配置，掌握iTunes Connect，Application Loader等App打包上传工具。  
  - 独立设计了App的UI，代码架构。    
  - 以高标准去完成心目中合格的App，并做好后期维护及版本迭代。
  
