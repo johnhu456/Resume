@@ -5,8 +5,8 @@
 - 1994年 /男
 - 2012-2016 电子科学与技术，本科，中国计量大学
 - 2年开发经验
-- 手机：13282157669
-- 邮箱：johnhu456@163.com
+- 手机：132*****69
+- 邮箱：***********@163.com
 - GitHub：[https://github.com/madao1237](https://github.com/madao1237)  
 - 博客：[http://www.jianshu.com/users/fed300b37039/latest_articles](http://www.jianshu.com/users/fed300b37039/latest_articles)
 
