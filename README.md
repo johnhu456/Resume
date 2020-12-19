@@ -55,7 +55,7 @@
 * 开发SDK测试基础组件，支持API参数及回调可视化、可配置化测试，基于AOP开发异步函数监听组件。
 * 出差海外（新加坡、印度）参与客户现场需求商讨及技术协作
 * 重构输入框等UI组件，支持高度扩展定制
-* 对Email Spam/iOS RASP有一定了解
+* 对Email Spam/iOS RASP(Runtime application self-protect)有一定了解
 
 #### Moxtra SDK测试平台&WhitelabelApp管理平台（2019年3月 - 至今）
 **简介：** 
@@ -63,6 +63,7 @@
 2. 内部贴牌App的打包管理平台，支持手动配置app的名称，外观，功能等进行重新打包和签名。
 
 **项目职责：** 
+* 负责项目整体规划
 * Cordova测试工具的开发
 * 服务端REST API接口设计开发
 * Jenkins/Tomcat/Amazon S3等服务部署及维护
